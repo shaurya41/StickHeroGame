@@ -7,6 +7,17 @@ own creative elements.
 
 <img width="599" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/2cda9c72-8124-4ee7-ab99-962c9bfc81e7">
 
+<img width="600" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/49ccf957-0b14-4e0d-ae32-3643f0835c78">
+
+<img width="598" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/5fe9a2fe-b113-46f5-8ad0-804cbbdcb920">
+
+<img width="600" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/19acb3b6-062a-43da-92c3-ecb7edb2f092">
+
+<img width="599" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/fdeeb259-7c4b-45df-85d5-105e00aa65f4">
+
+
+
+
 Game Summary
 This Project involves developing a complete game where a character named stick-hero
 navigates between platforms by extending a stick. Length of stick is variable and is controlled by
