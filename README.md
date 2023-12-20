@@ -4,6 +4,9 @@ Introduction
 We have created a game inspired by Stick Hero using JavaFX and object-oriented programming
 (OOP) principles. Our game replicates the core mechanics of Stick Hero while incorporating our
 own creative elements.
+
+<img width="599" alt="image" src="https://github.com/shaurya41/StickHeroGame/assets/148069878/2cda9c72-8124-4ee7-ab99-962c9bfc81e7">
+
 Game Summary
 This Project involves developing a complete game where a character named stick-hero
 navigates between platforms by extending a stick. Length of stick is variable and is controlled by
